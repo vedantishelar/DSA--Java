@@ -1,5 +1,5 @@
 // User Input & Output
-
+    
 import java.util.*;
  
 public class A1 {
