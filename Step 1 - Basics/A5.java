@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Sol5 {
+public class A5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String str = in.nextLine();
