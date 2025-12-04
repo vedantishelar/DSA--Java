@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class Sol3 {
+public class Sol3 {   
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int day = in.nextInt();
