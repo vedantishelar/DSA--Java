@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Sol10 {
+public class B1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
