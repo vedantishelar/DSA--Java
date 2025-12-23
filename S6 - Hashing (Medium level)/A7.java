@@ -22,9 +22,12 @@ public class A7 {
         for (int i = 0; i < arr.length; i++) {
             int val = Integer.parseInt(arr[i]);
 
-            if (val == 0) count0++;
-            else if (val == 1) count1++;
-            else if (val == 2) count2++;
+            if (val == 0)
+                count0++;
+            else if (val == 1)
+                count1++;
+            else if (val == 2)
+                count2++;
 
             int diff10 = count1 - count0;
             int diff21 = count2 - count1;
