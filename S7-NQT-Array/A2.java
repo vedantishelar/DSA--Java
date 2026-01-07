@@ -1,4 +1,4 @@
-// Rotate Array
+// Rotate array
 
 import java.util.*;
 
