@@ -1,3 +1,7 @@
+// Subarray with Given Sum – Bank Fraud Detection
+
+// A bank monitors transactions. If continuous transactions sum up to a suspicious amount, flag it.
+
 import java.util.*;
 
 public class A5 {
