@@ -43,6 +43,5 @@ public class A1 {
         } else {
             System.out.println("INVALID");
         }
-
     }
 }
